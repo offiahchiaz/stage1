@@ -1,0 +1,72 @@
+body {
+	background: #EAEAEA;
+}
+
+.content {
+	margin: auto;
+    width: 50%;
+    
+    padding-top: 40px;
+}
+
+#kyle {
+	font-family: Roboto;
+	font-style: Regular;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: left;
+	font-weight: bold;
+	padding-left: 30px;
+}
+
+#logo {
+	float: right;
+	padding-right: 30px;
+}
+
+.writeup {
+  padding-top: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+}
+
+#profileImage {
+	width: 300px;
+	height: 300px;
+	float: left;
+	border-radius: 11px;
+	padding-bottom: 60px;
+
+}
+
+.p1, #time {
+	display: block;
+	margin-left: 320px;
+	line-height: 20px;
+	text-align: justify;
+}
+
+#time {
+	float: right;
+	font-weight: bolder;
+}
+
+footer {
+	clear:both; 
+	background: #252223; 
+	padding-top: 10px; 
+	padding-bottom: 10px;
+}
+
+#span1  {
+	text-align: left; 
+	padding-left: 30px; 
+	color: #C4C4C4;
+}
+
+#span2 {
+	float: right; 
+	padding-right: 30px; 
+	color: #C4C4C4;
+}
